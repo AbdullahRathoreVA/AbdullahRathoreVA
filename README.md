@@ -19,6 +19,12 @@ for small businesses.
 | [Deal Desk](https://github.com/AbdullahRathoreVA/deal-desk) | Turns Cleveland public records into scored, underwritten property leads with approval-gated outreach | Node.js · SQLite | |
 | [Aether Engine](https://github.com/AbdullahRathoreVA/aether-engine) | Autonomous content distribution engine that runs on a laptop | Python (stdlib only) | |
 
+#### Open-source tools
+
+- [reel-forge](https://github.com/AbdullahRathoreVA/reel-forge): vertical short videos from a JSON spec, with a voice-over, timed subtitles and an ffmpeg render
+- [carousel-maker](https://github.com/AbdullahRathoreVA/carousel-maker): Instagram slides and a LinkedIn PDF from a JSON spec
+- [git-history-secret-scan](https://github.com/AbdullahRathoreVA/git-history-secret-scan): finds leaked keys anywhere in a repo's history before you make it public
+
 #### Tools I use
 
 Python, FastAPI, TypeScript, Next.js, React, Astro, Three.js, Node.js, SQLite, PostgreSQL
