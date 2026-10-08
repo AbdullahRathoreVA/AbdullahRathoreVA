@@ -24,10 +24,12 @@ for small businesses.
 - [reel-forge](https://github.com/AbdullahRathoreVA/reel-forge): vertical short videos from a JSON spec, with a voice-over, timed subtitles and an ffmpeg render
 - [carousel-maker](https://github.com/AbdullahRathoreVA/carousel-maker): Instagram slides and a LinkedIn PDF from a JSON spec
 - [git-history-secret-scan](https://github.com/AbdullahRathoreVA/git-history-secret-scan): finds leaked keys anywhere in a repo's history before you make it public
+- [sitecheck](https://github.com/AbdullahRathoreVA/sitecheck) (Java): checks a website for the basics that cost small businesses customers
+- [leadbook](https://github.com/AbdullahRathoreVA/leadbook) (Java): cleans lead lists by merging duplicates, dropping directory listings and flagging bad emails
 
 #### Tools I use
 
-Python, FastAPI, TypeScript, Next.js, React, Astro, Three.js, Node.js, SQLite, PostgreSQL
+Python, FastAPI, TypeScript, Java, Next.js, React, Astro, Three.js, Node.js, SQLite, PostgreSQL
 and Prisma, Docker, n8n, and LLM APIs for agents, voice and retrieval.
 
 #### Get in touch
